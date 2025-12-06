@@ -4,5 +4,12 @@
   "avatar": "https://cdn.discordapp.com/avatars/1365989943012229221/f25a5d07391faebd3824466db76cfd3a.png",
   "apiKey": "obc_434f7d57b7fa41abb3205a132be5b054",
   "createdAt": "2025-12-06T22:12:37.478Z",
-  "history": []
+  "history": [
+    {
+      "type": "report",
+      "targetId": "1365989943012229221",
+      "text": "vava",
+      "date": "2025-12-06T22:14:29.910Z"
+    }
+  ]
 }
