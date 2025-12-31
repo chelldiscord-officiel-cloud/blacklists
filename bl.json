@@ -1,0 +1,647 @@
+   "blacklist": {
+        "1403806096476602399": {
+            "reason": "Le type est arrivé sur le serveur et comme à foutre la merde à mainte reprises je lui ai demandé de s'expliquer mais préfère insulter",
+            "by": "1157346587845083218",
+            "date": "2025-08-09T18:49:34.382Z",
+            "last_notified": 1754766791050
+        },
+        "1285977186800631931": {
+            "reason": "Bot PUBMP",
+            "by": "1295037828694278144",
+            "date": "2025-08-12T18:53:15.484Z"
+        },
+        "849397432932630579": {
+            "reason": "RACISTE, ANTISÉMITE, SPAM",
+            "by": "1295037828694278144",
+            "date": "2025-08-16T18:40:35.537Z"
+        },
+        "691977775783084052": {
+            "reason": "raciste , antisémite, spam",
+            "by": "1295037828694278144",
+            "date": "2025-08-16T18:42:14.320Z"
+        },
+        "1357706087985447023": {
+            "reason": "BOT UTILISÉ POUR RAID",
+            "by": "1295037828694278144",
+            "date": "2025-08-20T09:07:16.686Z",
+            "last_notified": 1758872172125
+        },
+        "833725034383540235": {
+            "reason": "SCAM + VENTE ILLÉGALE + vol de carte bancaire",
+            "by": "1295037828694278144",
+            "date": "2025-08-21T22:32:28.339Z"
+        },
+        "1139125484043649054": {
+            "reason": "INSULTE sur personnes défuntes+ individu dangereux incitant à des activités sexuelles déviantes mettant en scène des mineurs",
+            "by": "1295037828694278144",
+            "date": "2025-08-22T20:22:20.944Z"
+        },
+        "1200912523940085770": {
+            "reason": "INSULTES RÉPÉTÉ+ HARCÈLEMENT",
+            "by": "1295037828694278144",
+            "date": "2025-08-22T21:16:05.818Z",
+            "last_notified": 1755898099038
+        },
+        "1404602559590567966": {
+            "reason": "BOT ILLEGAL FAUX AVIS GOOGLE",
+            "by": "1295037828694278144",
+            "date": "2025-08-23T11:22:24.888Z"
+        },
+        "711657466429177929": {
+            "reason": "Individu polémiste, insultant , menaçant etc",
+            "by": "1295037828694278144",
+            "date": "2025-08-24T13:44:33.178Z"
+        },
+        "1281667061390770187": {
+            "reason": "compte hacké",
+            "by": "1295037828694278144",
+            "date": "2025-08-26T22:50:20.764Z"
+        },
+        "490929014723051521": {
+            "reason": "insultes , harcèlement moral",
+            "by": "1295037828694278144",
+            "date": "2025-08-29T20:55:09.701Z"
+        },
+        "1379876844987351092": {
+            "reason": "RAID DE SERVEUR",
+            "by": "1295037828694278144",
+            "date": "2025-08-30T15:58:31.273Z"
+        },
+        "797859195109900288": {
+            "reason": "association et aide à un raid + harcèlement",
+            "by": "1295037828694278144",
+            "date": "2025-08-30T16:00:51.600Z"
+        },
+        "683993950511431680": {
+            "reason": "Participation à une campagne de cyberhacelement+ complicité en vue de commettre un raid.",
+            "by": "1295037828694278144",
+            "date": "2025-08-30T16:03:06.951Z"
+        },
+        "1046446175739457576": {
+            "reason": "Participation à une campagne de cyberhacelement+ complicité en vue de commettre un raid.",
+            "by": "1295037828694278144",
+            "date": "2025-08-30T16:04:54.217Z"
+        },
+        "1263256552714801153": {
+            "reason": "Staff emerode bot.\n\nParticipation au développement d'un bot pouvant être utilisé pour raid les serveurs+\n\n Suspiçion de  Participation à une campagne de cyberhacelement+ complicité en vue de commettre un raid.",
+            "by": "1295037828694278144",
+            "date": "2025-08-30T16:09:28.127Z",
+            "last_notified": 1756917142068
+        },
+        "1362405839918338211": {
+            "reason": "Individu proposant des services de raid de serveur",
+            "by": "1295037828694278144",
+            "date": "2025-08-31T08:59:23.137Z"
+        },
+        "1408402510007242772": {
+            "reason": "BOT RAID, DANGER",
+            "by": "1295037828694278144",
+            "date": "2025-08-31T10:24:42.787Z",
+            "last_notified": 1758315829731
+        },
+        "1349486051709685850": {
+            "reason": "bot utilisé pour RAID",
+            "by": "1295037828694278144",
+            "date": "2025-08-31T18:20:04.441Z",
+            "last_notified": 1756693136383
+        },
+        "1403427570761859102": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-08-31T19:59:41.871Z"
+        },
+        "1407106568855752724": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-08-31T21:26:28.092Z"
+        },
+        "1405730492241940490": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-09-02T07:30:31.404Z"
+        },
+        "1348320341189202021": {
+            "reason": "fausse info et raid",
+            "by": "537225794372632576",
+            "date": "2025-09-03T12:31:18.720Z"
+        },
+        "1037402591883169835": {
+            "reason": "harcèlement et danger",
+            "by": "537225794372632576",
+            "date": "2025-09-08T15:37:34.316Z"
+        },
+        "1395764726457438248": {
+            "reason": "Bot de raid \n\n• création  **massive de channel**\n• création **massive de webhook**\nSpam de lien\nspam de mention",
+            "by": "1295037828694278144",
+            "date": "2025-09-09T12:00:13.539Z",
+            "last_notified": 1758193003907
+        },
+        "1384622778577059921": {
+            "reason": "BOT RAID DANGEREUX.",
+            "by": "1295037828694278144",
+            "date": "2025-09-12T06:08:48.206Z"
+        },
+        "1386655983048327209": {
+            "reason": "double compte de  917464047018999838 Pédophilie+ Suspiçion de Complicité en vue de commettre un raid.   Participation à une campagne de cyber harcèlement + menace directe à l'encontre d'un utilisateur en vue  de faire perdre à un utilisateur son compte discord",
+            "by": "1295037828694278144",
+            "date": "2025-09-14T11:25:00.725Z"
+        },
+        "1404108148301893713": {
+            "reason": "bot de raid ,  raid/nuke puissant , change le nom et profil des serveur",
+            "by": "1295037828694278144",
+            "date": "2025-09-16T04:58:14.096Z"
+        },
+        "1417308524060344411": {
+            "reason": "Bot de raid ,bot de dm all ,bot malveillant qui a plusieurs commandes dangereuses",
+            "by": "1295037828694278144",
+            "date": "2025-09-16T05:01:29.926Z"
+        },
+        "1414744562324476127": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-09-18T11:13:21.987Z"
+        },
+        "1393030085606375435": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-09-18T11:16:53.299Z",
+            "last_notified": 1758194225443
+        },
+        "1403227713334022275": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-09-18T12:23:09.010Z",
+            "last_notified": 1758230156801
+        },
+        "1268224115026690128": {
+            "reason": "diffamation et participation à une activité en bande organisée visant à cyber harceler un individu. (Contexte , il a été dm par une personne pour faire un faux avis sur un bot )",
+            "by": "1295037828694278144",
+            "date": "2025-09-19T17:59:32.480Z",
+            "last_notified": 1759582895314
+        },
+        "1382352922595037256": {
+            "reason": "diffamation et participation à une activité en bande organisée visant à cyber harceler un individu. (Contexte , il a été dm par une personne pour faire un faux avis sur un bot )\n+ Utilisation de GLaDOS (partenaire de chell) de manière détournée pour tenter de raid un serveur.",
+            "by": "1295037828694278144",
+            "date": "2025-09-19T18:00:49.339Z",
+            "last_notified": 1763066567488
+        },
+        "1410894883350249503": {
+            "reason": "diffamation et participation à une activité en bande organisée visant à cyber harceler un individu. (Contexte , il a été dm par une personne pour faire un faux avis sur un bot )\n+ Utilisation de GLaDOS de manière détournée pour tenter de raid un serveur. (Double compte)",
+            "by": "1295037828694278144",
+            "date": "2025-09-19T21:24:27.315Z"
+        },
+        "1402346735577075923": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-09-19T23:22:55.269Z",
+            "last_notified": 1758415764895
+        },
+        "1406488641399820350": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-09-20T12:41:42.226Z"
+        },
+        "1175429798357647430": {
+            "reason": "diffamation et participation à une activité en bande organisée visant à cyber harceler un individu. (Contexte , il a été dm par une personne pour faire un faux avis sur un bot  avec pour texte un truc copié collé)",
+            "by": "1295037828694278144",
+            "date": "2025-09-20T19:53:04.462Z",
+            "last_notified": 1758879285116
+        },
+        "1412992763493879931": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-09-21T00:45:12.566Z"
+        },
+        "1383942284080451604": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-09-21T01:12:02.797Z"
+        },
+        "1411284812651692165": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-09-21T15:53:55.214Z"
+        },
+        "1407284426429304863": {
+            "reason": "TRASH TALKING ET Insulte GRATUITE",
+            "by": "1365989943012229221",
+            "date": "2025-09-25T20:38:52.513Z",
+            "last_notified": 1764770708437
+        },
+        "1374582651075432478": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-10-02T09:37:00.684Z"
+        },
+        "1262460621941903483": {
+            "reason": "TENTATIVE DE RAID DE SERVEUR",
+            "by": "1365989943012229221",
+            "date": "2025-10-04T20:20:43.820Z"
+        },
+        "1416602668884820018": {
+            "reason": "BOT RAID, DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-10-05T18:46:54.797Z"
+        },
+        "1314301966284882045": {
+            "reason": "ENVOI DE LIEN DU SERVEUR SUPPORT DU BOT SUR UN SALON DE SERVEUR DE DEMANDE DE RAID. RÉSUMÉ : COMPLICITÉ DE TENTATIVE",
+            "by": "1365989943012229221",
+            "date": "2025-10-06T20:38:20.570Z",
+            "last_notified": 1765009434886
+        },
+        "1155465284174483536": {
+            "reason": "individu  qui envoie un lien de serveur   sur un salon dédié aux demandes de raid de serveur sur un serveur de nuke.",
+            "by": "1365989943012229221",
+            "date": "2025-10-06T20:49:59.571Z"
+        },
+        "1424707775501439087": {
+            "reason": "BOT RAID DANGEREUX. FAUX BOT DE MUSIQUE",
+            "by": "1365989943012229221",
+            "date": "2025-10-08T06:19:09.297Z"
+        },
+        "1425241937895489586": {
+            "reason": "FAUX BOT DE PROTECTION NE PROPOSANT QUE DES COMMANDES DE RAID DE SERVEURS / NUKE",
+            "by": "1365989943012229221",
+            "date": "2025-10-08T06:21:07.090Z"
+        },
+        "1423079229419028491": {
+            "reason": "BOT RAID , DANGEREUX",
+            "by": "1365989943012229221",
+            "date": "2025-10-08T06:23:01.550Z"
+        },
+        "1419619468400918639": {
+            "reason": "BOT EFFECTUANT DES RAIDS ! DANGEREUX",
+            "by": "1365989943012229221",
+            "date": "2025-10-08T06:24:36.409Z"
+        },
+        "1422662972735750228": {
+            "reason": "BOT RAID DANGEREUX",
+            "by": "1365989943012229221",
+            "date": "2025-10-08T06:26:14.948Z"
+        },
+        "1423836494602440744": {
+            "reason": "BOT RAID , DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-10-09T05:47:06.836Z"
+        },
+        "1419669785360338944": {
+            "reason": "BOT PROPOSANT DES FONCTIONNALITES HORS TOS DISCORD (spam ou raid ou autres)",
+            "by": "1365989943012229221",
+            "date": "2025-10-10T17:06:56.219Z"
+        },
+        "1414283169817165975": {
+            "reason": "BOT PROPOSANT DES FONCTIONNALITES HORS TOS DISCORD (spam ou raid ou autres)",
+            "by": "1365989943012229221",
+            "date": "2025-10-10T17:06:56.220Z"
+        },
+        "1374008222620323970": {
+            "reason": "BOT PROPOSANT DES FONCTIONNALITES HORS TOS DISCORD (spam ou raid ou autres)",
+            "by": "1365989943012229221",
+            "date": "2025-10-10T17:06:56.220Z"
+        },
+        "1423465330344202320": {
+            "reason": "BOT PROPOSANT DES FONCTIONNALITES HORS TOS DISCORD (spam ou raid ou autres)",
+            "by": "1365989943012229221",
+            "date": "2025-10-10T17:06:56.220Z"
+        },
+        "1406791035866320967": {
+            "reason": "BOT PROPOSANT DES FONCTIONNALITES HORS TOS DISCORD (spam ou raid ou autres)",
+            "by": "1365989943012229221",
+            "date": "2025-10-10T17:06:56.220Z"
+        },
+        "1355631182448037949": {
+            "reason": "BOT PROPOSANT DES FONCTIONNALITES HORS TOS DISCORD (spam ou raid ou autres)",
+            "by": "1365989943012229221",
+            "date": "2025-10-10T17:06:56.220Z"
+        },
+        "1421914116901044294": {
+            "reason": "BOT PROPOSANT DES FONCTIONNALITES HORS TOS DISCORD (spam ou raid ou autres)",
+            "by": "1365989943012229221",
+            "date": "2025-10-10T17:06:56.220Z"
+        },
+        "1418688747259691038": {
+            "reason": "BOT PROPOSANT DES FONCTIONNALITES HORS TOS DISCORD (spam ou raid ou autres)",
+            "by": "1365989943012229221",
+            "date": "2025-10-10T17:06:56.220Z"
+        },
+        "1413830531610841208": {
+            "reason": "Bot externe utilisé et proposant des fonctions de spam/raid",
+            "by": "1365989943012229221",
+            "date": "2025-10-11T18:47:21.179Z"
+        },
+        "1421903403185082509": {
+            "reason": "BOT RAID DANGEREUX",
+            "by": "1365989943012229221",
+            "date": "2025-10-19T14:02:00.297Z"
+        },
+        "1421850592606687363": {
+            "reason": "BOT RAID DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-10-19T19:28:06.063Z"
+        },
+        "1423274815027937371": {
+            "reason": "BOT RAID DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-10-20T06:19:16.680Z"
+        },
+        "1426889536050561055": {
+            "reason": "BOT RAID DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-10-22T05:47:40.503Z"
+        },
+        "1429085609003188255": {
+            "reason": "BOT RAID , DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-10-24T06:42:23.430Z"
+        },
+        "791781421287079937": {
+            "reason": "insulte gratuite, trash talking",
+            "by": "1365989943012229221",
+            "date": "2025-10-25T08:18:01.547Z",
+            "last_notified": 1762114068254
+        },
+        "1430253468462878760": {
+            "reason": "raid",
+            "by": "537225794372632576",
+            "date": "2025-10-26T20:20:10.199Z"
+        },
+        "881176815455055882": {
+            "reason": "jeux d'argent",
+            "by": "537225794372632576",
+            "date": "2025-10-27T20:39:43.897Z"
+        },
+        "880958089157804132": {
+            "reason": "jeux d'argent",
+            "by": "537225794372632576",
+            "date": "2025-10-27T20:39:43.897Z"
+        },
+        "1429457950921068644": {
+            "reason": "BOT RAID DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-11-02T13:11:47.070Z"
+        },
+        "1434195984921002085": {
+            "reason": "BOT RAID DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-11-02T13:14:04.443Z"
+        },
+        "1415812297242312756": {
+            "reason": "BOT RAID DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-11-02T13:14:58.545Z"
+        },
+        "1384204760105746552": {
+            "reason": "BOT RAID",
+            "by": "1365989943012229221",
+            "date": "2025-11-02T13:18:25.232Z"
+        },
+        "1431268279950901310": {
+            "reason": "BOT RAID DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-11-03T10:56:15.005Z"
+        },
+        "1426626196040450058": {
+            "reason": "spam arnaque",
+            "by": "537225794372632576",
+            "date": "2025-11-03T22:27:29.431Z"
+        },
+        "1435752744362311831": {
+            "reason": "BOT RAID DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-11-06T14:04:11.230Z"
+        },
+        "1426635541104955502": {
+            "reason": "Bot raid danger",
+            "by": "1365989943012229221",
+            "date": "2025-11-10T20:07:46.859Z"
+        },
+        "1419289714959061065": {
+            "reason": "TENTATIVE DE RAID+ USURPATION D'IDENTITÉ",
+            "by": "1365989943012229221",
+            "date": "2025-11-12T18:08:08.138Z",
+            "last_notified": 1762971467305
+        },
+        "1426966728826425344": {
+            "reason": "Bot raid",
+            "by": "1365989943012229221",
+            "date": "2025-11-13T06:40:09.120Z"
+        },
+        "1437876037676433510": {
+            "reason": "BOT RAID",
+            "by": "1365989943012229221",
+            "date": "2025-11-13T06:41:40.903Z"
+        },
+        "1436734919207551028": {
+            "reason": "BOT RAID",
+            "by": "1365989943012229221",
+            "date": "2025-11-13T06:42:24.417Z"
+        },
+        "1432171959357014140": {
+            "reason": "BOT RAID",
+            "by": "1365989943012229221",
+            "date": "2025-11-13T06:44:22.010Z"
+        },
+        "1432013149762228367": {
+            "reason": "BOT RAID",
+            "by": "1365989943012229221",
+            "date": "2025-11-13T06:49:04.528Z"
+        },
+        "1421253816531025980": {
+            "reason": "BOT RAID",
+            "by": "1365989943012229221",
+            "date": "2025-11-13T06:50:39.906Z"
+        },
+        "1432063272235827300": {
+            "reason": "BOT RAID",
+            "by": "1365989943012229221",
+            "date": "2025-11-13T06:51:42.457Z"
+        },
+        "1438266061983060071": {
+            "reason": "USURPATION D'IDENTITÉ D'UN COFONDA DE CHELL + ENVOIT D'IMAGE PORNOGRAPHIQUE",
+            "by": "1365989943012229221",
+            "date": "2025-11-13T16:02:41.263Z"
+        },
+        "1414737195729948792": {
+            "reason": "BOT RAID DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-11-14T15:00:53.988Z"
+        },
+        "1419215970479640678": {
+            "reason": "Utilisateur effectuant des opérations commerciales à l'encontre des TOS Discord (notamment de la vente de membres pour serveurs)",
+            "by": "1365989943012229221",
+            "date": "2025-11-15T10:39:07.544Z"
+        },
+        "1191800999724204066": {
+            "reason": "PROPRIÉTAIRE DE BOT VISANT À RAID / NUKE DES SERVEUR + DMALL DES PERSONNES (TOUT CECI EST HORS TOS ET DERANGE LES UTILISATEURS , DANGER)",
+            "by": "1365989943012229221",
+            "date": "2025-11-16T10:52:55.891Z",
+            "last_notified": 1763314122711
+        },
+        "1440088131633287209": {
+            "reason": "SPAM de message sur serveur en bande organisée (hors tos discord, assimilé à du raid + dérangeant et malveillant)",
+            "by": "1365989943012229221",
+            "date": "2025-11-17T21:43:20.647Z"
+        },
+        "1374503764085575784": {
+            "reason": "SPAM de message sur serveur en bande organisée (hors tos discord, assimilé à du raid + dérangeant et malveillant)",
+            "by": "1365989943012229221",
+            "date": "2025-11-17T21:43:20.647Z"
+        },
+        "1440060924705771540": {
+            "reason": "SPAM de message sur serveur en bande organisée (hors tos discord, assimilé à du raid + dérangeant et malveillant)",
+            "by": "1365989943012229221",
+            "date": "2025-11-17T21:43:20.647Z"
+        },
+        "1386768973617696899": {
+            "reason": "Insultes répétées, menaces à caractère sexuelles / sexistes. trash talking",
+            "by": "1365989943012229221",
+            "date": "2025-11-19T22:29:53.911Z"
+        },
+        "1438973430606336034": {
+            "reason": "BOT RAID, DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-11-30T16:49:44.400Z"
+        },
+        "1331118412864159838": {
+            "reason": "COMPTE SE PRENANT POUR RAID PROTECT, UN BOT RECONNU ANTIRAID. + TENTATIVES DE RAID DE SERVEURS. UTILISATEUR/SELFBOT PARTICULIÈREMENT DANGEREUX",
+            "by": "1365989943012229221",
+            "date": "2025-12-01T21:55:10.646Z"
+        },
+        "1219753182964613170": {
+            "reason": "COMPTE SE PRENANT POUR RAID PROTECT, UN BOT RECONNU ANTIRAID. + TENTATIVES DE RAID DE SERVEURS. UTILISATEUR/SELFBOT PARTICULIÈREMENT DANGEREUX",
+            "by": "1365989943012229221",
+            "date": "2025-12-01T21:55:10.646Z"
+        },
+        "690885922685845535": {
+            "reason": "partage  pornographie sans consentement , INCITATION AU SUICIDE, TRASH TALKING, CYBER HARCÈLEMENT",
+            "by": "1365989943012229221",
+            "date": "2025-12-02T23:57:02.823Z",
+            "last_notified": 1766965724632
+        },
+        "1446809223785611335": {
+            "reason": "BOT RAID, DANGEREUX ET HORS TOS DISCORD",
+            "by": "1365989943012229221",
+            "date": "2025-12-06T16:28:24.163Z"
+        },
+        "1415339297640415262": {
+            "reason": "BOT DE RAID, DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-12-06T16:56:01.526Z"
+        },
+        "1447205055190138934": {
+            "reason": "BOT RAID, SPAM",
+            "by": "1365989943012229221",
+            "date": "2025-12-07T19:10:44.646Z"
+        },
+        "1447485654941564965": {
+            "reason": "compte compromis",
+            "by": "1365989943012229221",
+            "date": "2025-12-09T22:07:13.238Z"
+        },
+        "1403875812293349446": {
+            "reason": "pub mp + insultes gratuites (en plus  injustifiée)",
+            "by": "1365989943012229221",
+            "date": "2025-12-10T14:46:17.856Z"
+        },
+        "1442466817669988403": {
+            "reason": "SCAM (se prend pour l'équipe de discord... Grandissez un peu tsss)",
+            "by": "1365989943012229221",
+            "date": "2025-12-10T16:09:16.548Z"
+        },
+        "1406969053796499496": {
+            "reason": "bot de spam, 5",
+            "by": "1365989943012229221",
+            "date": "2025-12-12T14:39:36.733Z"
+        },
+        "1449161810807885865": {
+            "reason": "BOT RAID SPAM",
+            "by": "1365989943012229221",
+            "date": "2025-12-14T14:08:09.272Z"
+        },
+        "1449703366564380672": {
+            "reason": "SPAM, COMPTE COMPROMIS",
+            "by": "1365989943012229221",
+            "date": "2025-12-16T10:19:08.081Z"
+        },
+        "1450351527184175124": {
+            "reason": "BOT RAID, DANGER",
+            "by": "1365989943012229221",
+            "date": "2025-12-19T07:02:11.684Z"
+        },
+        "1353671139913895957": {
+            "reason": "messages inappropriés,  se félicite de hacker des comptes, danger",
+            "by": "1365989943012229221",
+            "date": "2025-12-25T12:18:29.080Z"
+        },
+        "1192202542696890401": {
+            "reason": "glorification de la violence, antisémitismes, propos diffamatoires",
+            "by": "1365989943012229221",
+            "date": "2025-12-25T12:21:08.013Z"
+        },
+        "1450178893670781034": {
+            "reason": "flemme d'expliquer mais raid et nuke",
+            "by": "537225794372632576",
+            "date": "2025-12-26T11:27:10.546Z"
+        },
+        "1439957939564581059": {
+            "reason": "PARTAGE DE CONTENU NSFW SANS CONSENTEMENT ET DE MANIÈRE NON DÉSIRÉE",
+            "by": "1365989943012229221",
+            "date": "2025-12-28T16:48:54.021Z"
+        },
+        "1408075017471922209": {
+            "reason": "PUBMP, dmall par l'ajout d'un bot sans permission. Donc dmall (hors tos) + abus de perm",
+            "by": "1365989943012229221",
+            "date": "2025-12-28T18:12:40.253Z"
+        },
+        "1414974603390091284": {
+            "reason": "partage\n\npornographie sans consentement,\n\nINCITATION AU SUICIDE, TRASH TALKING, CYBER HARCÈLEMENT",
+            "by": "1365989943012229221",
+            "date": "2025-12-28T20:42:09.726Z"
+        },
+        "1453099361339703379": {
+            "reason": "(double compte) messages inappropriés,  se félicite de hacker des comptes, danger",
+            "by": "1365989943012229221",
+            "date": "2025-12-29T16:23:38.450Z"
+        },
+        "1337830087042797671": {
+            "reason": "Menaces de Doxx + participation à des activités illégales",
+            "by": "1365989943012229221",
+            "date": "2025-12-30T13:24:25.450Z"
+        },
+        "1453794153409417276": {
+            "reason": "bot raid / spam, danger",
+            "by": "1365989943012229221",
+            "date": "2025-12-30T14:58:34.164Z"
+        }
+    },
+    "blacklist_server_whitelist": [
+        "1348384837173641259",
+        "1245049212605825034",
+        "1356336690368741416",
+        "1406965493973385247",
+        "1209163402010959882",
+        "1405913083515375738",
+        "1409268102499274869",
+        "1377633416941670625",
+        "1415753282995097705",
+        "1406754403066843417",
+        "1399807882920202242",
+        "1109893259993555016",
+        "1387426975760515234",
+        "1334818866630627409",
+        "1379890375350812774",
+        "1391569226602385505",
+        "1223263083988914196",
+        "1349805670408519743",
+        "1362812461241073674",
+        "1438633189768826902",
+        "1437828291246559305",
+        "1432877234787713058",
+        "1438960222725996599",
+        "1387323453052289105",
+        "1413896493764448453",
+        "1448999376054911059",
+        "1076782531128602644",
+        "1431385935324381317",
+        "1454406197300953090"
+    ],
